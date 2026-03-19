@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "君と夏フェス",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2026-03-19T16:33:21.405955Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君と夏フェス",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/01_君と夏フェス_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君と夏フェス",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/02_君と夏フェス_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君と夏フェス",
+      "artist": "Shishamo",
+      "has_synced": false,
+      "path": "select/03_君と夏フェス_Shishamo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君と夏フェス",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/04_君と夏フェス_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君と夏フェス - Kimi To Natsufesu",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/05_君と夏フェス_-_Kimi_To_Natsufesu_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君と夏フェス at CREAM PUFF LIVE 3(Cover)",
+      "artist": "Harusaruhi",
+      "has_synced": true,
+      "path": "select/06_君と夏フェス_at_CREAM_PUFF_LIVE_3(Cover)_Harusaruhi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と夏フェス",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_君と夏フェス_SHISHAMO.txt"
+    }
+  ]
+}
